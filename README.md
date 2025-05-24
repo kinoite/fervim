@@ -1,6 +1,10 @@
 # fervim
 A basic vim-like text editor written in Rust
 
+### screenies
+![alt text](/Screenshots/Screenshot_20250524_083901.png)
+![alt text](/Screenshots/Screenshot_20250524_083951.png)
+![alt text](/Screenshots/Screenshot_20250524_084014.png)
 
 ## How to install
 
