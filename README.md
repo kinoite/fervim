@@ -1,5 +1,15 @@
+# New Update: fervim 0.1.1 -- The Configuration Update
+![alt](/Screenshots/d.png)
+New features:
+* You can now configure fervim and change so much like the command box and mode bar!
+* Change the command box text
+* Change their colors
+* Add a gradient to the mode bar (gradient support will come to the command bar i promise)
+
+
+
 # fervim
-A basic vim-like text editor written in Rust
+A basic vim-like text editor written in Rust 
 
 ### screenies
 ![alt text](/Screenshots/Screenshot_20250524_083901.png)
@@ -28,11 +38,11 @@ and boom! done, enjoy! :>
 
 ## Configuration
 
-Configuration is not ready yet due to this being in heavy alpha, itll be added in later versions, 
-<details>
- <summary>next version includes configuration to add or make colors! x3</summary>
+The configuration file should be located at `~/.config/fervim/config.toml`, though you'd have to create it yourself with `touch`.
 
- ```
-note that it'll probably be buggy as hell so iff you find a problem it would be appreciated to make a bug report in this repo >w<
 ```
-</details>
+touch ~/.config/ferivm/config.toml
+```
+
+Now that configuration is ready, fire up your text editor for editing config files of your choice and get tweaking and enjoy!, or not, it's your choice!
+After you've configured fervim, the configuration should apply now.
