@@ -21,3 +21,7 @@ sudo/doas mv target/release/fervim /usr/local/bin
 ```
 
 and boom! done, enjoy! :>
+
+## Configuration
+
+Configuration is not ready yet due to this being in heavy alpha, itll be added in later versions, ||next version includes configuration to add or make colors! >v<||
