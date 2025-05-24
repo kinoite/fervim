@@ -27,4 +27,8 @@ and boom! done, enjoy! :>
 Configuration is not ready yet due to this being in heavy alpha, itll be added in later versions, 
 <details>
  <summary>next version includes configuration to add or make colors! x3</summary>
+
+ ```
+note that it'll probably be buggy as hell so iff you find a problem it would be appreciated to make a bug report in this repo >w<
+```
 </details>
