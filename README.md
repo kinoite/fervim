@@ -24,4 +24,7 @@ and boom! done, enjoy! :>
 
 ## Configuration
 
-Configuration is not ready yet due to this being in heavy alpha, itll be added in later versions, ||next version includes configuration to add or make colors! >v<||
+Configuration is not ready yet due to this being in heavy alpha, itll be added in later versions, 
+<details>
+ <summary>next version includes configuration to add or make colors! x3</summary>
+</details>
